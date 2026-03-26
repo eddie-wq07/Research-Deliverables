@@ -1,0 +1,22 @@
+# Database connectivity
+mysql-connector-python>=8.0.33
+pymysql>=1.0.3
+sqlalchemy>=2.0.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.22.0
+
+# Text processing (for firm name matching)
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+
+# Optional: progress bars
+tqdm>=4.65.0
